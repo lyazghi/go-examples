@@ -36,4 +36,6 @@ func main() {
 	examples.Range()
 	// 12 - FUNCTIONS
 	examples.Functions()
+	//13 - MULTIPLE RETURN VALUES
+	examples.MultipleReturnValues()
 }
