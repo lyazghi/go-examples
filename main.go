@@ -34,4 +34,6 @@ func main() {
 	examples.Maps()
 	// 11 - RANGE
 	examples.Range()
+	// 12 - FUNCTIONS
+	examples.Functions()
 }
