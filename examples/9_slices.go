@@ -56,11 +56,11 @@ func Slices() {
 	fmt.Println("dcl:", t)
 
 	// The slices package contains a number of useful utility functions for slices.
-
 	t2 := []string{"g", "h", "i"}
 	if slices.Equal(t, t2) {
 		fmt.Println("t == t2")
 	}
+
 	// Slices can be composed into multi-dimensional data structures. The length of the inner slices can vary, unlike with multi-dimensional arrays.
 	twoD := make([][]int, 3)
 	for i := 0; i < 3; i++ {

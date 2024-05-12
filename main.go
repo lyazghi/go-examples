@@ -30,4 +30,6 @@ func main() {
 	examples.Arrays()
 	// 9 - SLICES
 	examples.Slices()
+	// 10 - MAPS
+	examples.Maps()
 }
