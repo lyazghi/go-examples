@@ -46,4 +46,6 @@ func main() {
 	examples.Recursion()
 	// 17 - Pointers
 	examples.Pointers()
+	// 18 - String & Runes
+	examples.StringsAndRunes()
 }
