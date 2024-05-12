@@ -38,4 +38,6 @@ func main() {
 	examples.Functions()
 	//13 - MULTIPLE RETURN VALUES
 	examples.MultipleReturnValues()
+	// 14 - VARIADIC FUNCTIONS
+	examples.VariadicFnctions()
 }
