@@ -36,8 +36,14 @@ func main() {
 	examples.Range()
 	// 12 - FUNCTIONS
 	examples.Functions()
-	//13 - MULTIPLE RETURN VALUES
+	// 13 - MULTIPLE RETURN VALUES
 	examples.MultipleReturnValues()
 	// 14 - VARIADIC FUNCTIONS
 	examples.VariadicFnctions()
+	// 15 - CLOSURES
+	examples.Closures()
+	// 16 - Recursion
+	examples.Recursion()
+	// 17 - Pointers
+	examples.Pointers()
 }
