@@ -32,4 +32,6 @@ func main() {
 	examples.Slices()
 	// 10 - MAPS
 	examples.Maps()
+	// 11 - RANGE
+	examples.Range()
 }
