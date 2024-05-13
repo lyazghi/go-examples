@@ -50,4 +50,6 @@ func main() {
 	examples.StringsAndRunes()
 	// 19 - Structs
 	examples.Structs()
+	// 20 - Methods
+	examples.Methods()
 }
