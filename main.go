@@ -48,4 +48,6 @@ func main() {
 	examples.Pointers()
 	// 18 - String & Runes
 	examples.StringsAndRunes()
+	// 19 - Structs
+	examples.Structs()
 }
